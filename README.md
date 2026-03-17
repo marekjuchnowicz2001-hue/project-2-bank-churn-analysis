@@ -18,20 +18,17 @@ that could help reduce churn.
 
 3. Project Structure
 
+
 project-2-bank-churn-analysis/
-│
 ├── 01-data/
 │   └── churn.csv
-│
 ├── 02-notebooks/
 │   └── churn-analysis.ipynb
-│
 ├── 03-sql/
 │   └── churn-queries.sql
-│
 ├── 04-dashboard/
+│   └── Dashboard project 2.pbix
 │   └── Dashboard project 2.png
-│
 ├── .gitignore
 └── README.md
 
